@@ -1735,10 +1735,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/traverse@npm:0.6.32":
-  version: 0.6.32
-  resolution: "@types/traverse@npm:0.6.32"
-  checksum: 0d27f4758e1da79463c42cdd91de018095048e5c3963ad108b97044d5f43ea48b071da87062fdd4ff46407461802cc47367dd90b8f4a03a3dcf2ff94840d4909
+"@types/traverse@npm:0.6.33":
+  version: 0.6.33
+  resolution: "@types/traverse@npm:0.6.33"
+  checksum: 117e76baab448fa72065c3b6c1ebd01918068636f197bd5a73195f45b1b1f8932fd5eaead4ed34cdf2d1003c7d98747e588e5e488d24d7a4e4c7d8a560a4d61d
   languageName: node
   linkType: hard
 
@@ -6819,7 +6819,7 @@ __metadata:
     "@types/lodash": 4.14.184
     "@types/ms": 0.7.31
     "@types/numeral": 2.0.2
-    "@types/traverse": 0.6.32
+    "@types/traverse": 0.6.33
     "@types/truncate-utf8-bytes": 1.0.0
     "@typescript-eslint/eslint-plugin": 5.33.1
     "@typescript-eslint/parser": 5.33.1
@@ -6860,7 +6860,7 @@ __metadata:
     promise-rat-race: 1.5.1
     renovate-config-algolia: 2.1.10
     semantic-release: 19.0.3
-    traverse: 0.6.6
+    traverse: 0.6.7
     truncate-utf8-bytes: 1.0.2
     ts-jest: 28.0.8
     typescript: 4.7.4
@@ -8745,7 +8745,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"traverse@npm:0.6.6, traverse@npm:~0.6.6":
+"traverse@npm:0.6.7":
+  version: 0.6.7
+  resolution: "traverse@npm:0.6.7"
+  checksum: 21018085ab72f717991597e12e2b52446962ed59df591502e4d7e1a709bc0a989f7c3d451aa7d882666ad0634f1546d696c5edecda1f2fc228777df7bb529a1e
+  languageName: node
+  linkType: hard
+
+"traverse@npm:~0.6.6":
   version: 0.6.6
   resolution: "traverse@npm:0.6.6"
   checksum: e2afa72f11efa9ba31ed763d2d9d2aa244612f22015d16c0ea3ba5f6ca8bf071de87f8108b721885cce06ea4a36ef4605d9228c67e431d9015ea4685cb364420
